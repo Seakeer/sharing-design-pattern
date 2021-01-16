@@ -1,0 +1,1 @@
+Decorator Pattern Jdk Support File.
